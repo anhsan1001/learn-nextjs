@@ -59,6 +59,7 @@ const LoginForm = () => {
       setLoading(false)
     }
   }
+  console.log(object)
   return (
     <Form {...form}>
       <form
